@@ -22,10 +22,8 @@ SafeVault is a C++ Object-Oriented Programming (OOP) project developed as a seme
 
 ## 👩‍💻 Developed By
 **Anika Akter Nira**
-Cyber Security Engineering  
-University of Frontier Technology Bangladesh (UFTB)
+
 **Md Ariful Islam**
-Cyber Security Engineering  
-University of Frontier Technology Bangladesh (UFTB)
+
 Cyber Security Engineering  
 University of Frontier Technology Bangladesh (UFTB)
